@@ -8,4 +8,4 @@ Uyumlu Sürümler:
 
 Detaylı kurulum anlatımı:
 
-http://oguzturk.net/opencart-hemen-al-modulu-ucretsiz/
+https://oguzturk.net/opencart-hemen-al-modulu-ucretsiz/
